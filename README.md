@@ -6,7 +6,7 @@ MediBot is a full-stack AI health assistant that analyzes user-entered symptoms 
 
 ## Features
 
-- AI-based disease prediction using a trained Random Forest model  
+- AI-based disease prediction using a trained Random Forest model
 - Natural language symptom processing  
 - Automatic correction of misspelled symptoms using fuzzy matching  
 - Standardized API responses for safe frontend handling  
